@@ -1,0 +1,41 @@
+body
+    {
+        background-color: skyblue;
+
+
+    }
+a:link
+{
+    color: maroon
+    background-color whitesmoke
+    text-decoration none;
+    padding: 15px;
+    text-align: center;
+    display: inline-block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a:visited
+
+{
+    color: darkslategray
+    background-color rosybrown
+    text-decoration none;
+    padding: 15px;
+    text-align: center;
+    display: inline-block;
+    font-family: Verdana, Geneva, Tahoma, sans-seri
+}
+
+.index{
+    height: 100vh;
+    width: 100%;
+    background-image: url(images/background.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-left: 5%;
+    padding-right: 5%;
+    box-sizing: border-box;
+    position: relative;
+}
+    
